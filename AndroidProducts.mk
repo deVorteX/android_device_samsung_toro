@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_toro.mk \
-    $(LOCAL_DIR)/fml_toro.mk
+    $(LOCAL_DIR)/omni_toro.mk
