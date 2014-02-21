@@ -17,5 +17,5 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
 	PRODUCT_NAME=mysid \
-	BUILD_FINGERPRINT="google/mysid/toro:4.4.2/KOT49H/573038:user/release-keys" \
-	PRIVATE_BUILD_DESC="mysid-user 4.4.2 KOT49H 573038 release-keys"
+	BUILD_FINGERPRINT="google/mysid/toro:4.2.2/JDQ39/573038:user/release-keys" \
+	PRIVATE_BUILD_DESC="mysid-user 4.2.2 JDQ39 573038 release-keys"
